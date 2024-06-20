@@ -1,0 +1,40 @@
+.bg-blue{
+    background-color: #0b7aaf;
+}
+.container .navbar-brand span {
+    color: #40ff00;
+}
+.hero{
+    min-height: 100vh;
+    background-image: url(images/bghero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    display: flex;
+}
+
+.hero .content {
+    padding: 1.4rem 9%;
+    max-width: 80%;
+}
+
+.hero .content h1 {
+    font-size: 5rem;
+    color: white;
+    text-shadow: 1px 1px 8px rgb(4, 4, 4);
+}
+
+.hero .content p{
+    font-size: 1.4rem;
+    color: #ffffffa3;
+}
+
+.hero .content .btn{
+    background-color: aqua;
+    font-size: 1.5rem;
+}
+
+.justype{
+    text-align: justify;
+}
